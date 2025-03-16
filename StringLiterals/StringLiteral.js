@@ -35,3 +35,5 @@
     let message1=`my name is ${empNme}`;
     
     console.log(message1)  // my name is John
+
+    let Automationtool='playwright"Selenium"cypress'
