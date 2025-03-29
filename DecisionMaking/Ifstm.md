@@ -1,3 +1,4 @@
+
 1. if statement
 2. if else statement
 3. if else if statement
@@ -7,7 +8,7 @@ syntax for if stm:
 ===================
  if(condition)
  {
-    //block
+    //if block
  }
 
  syntax for if-else stm:
@@ -58,3 +59,16 @@ if(condition)
 }
 
 
+
+
+// Switch statement
+
+
+switch(variable)
+{
+
+
+
+
+    
+}
