@@ -2,7 +2,7 @@
 
 //== --> loose equality operator 
       //(both value should be same but type can be different --> true)
-//=== --> striy!==zct equality operator
+//=== --> strict equality operator
       // (both value and type should be same)
 
 let a=10;//number
