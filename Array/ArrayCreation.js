@@ -55,10 +55,10 @@ for(let item of arrvalue1)
 }
 
 
-
 // 4 for in
 
 for(let i in arrvalue1)
     {
         console.log(i, arrvalue1[i])
     }
+    

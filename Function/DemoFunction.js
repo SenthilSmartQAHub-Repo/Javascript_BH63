@@ -29,8 +29,16 @@ function greet(myname,age,country="USA")
 greet("Alice",26,null) //Alice 26 null
 greet("Alice",26,undefined)//Alice 26 USA
 
+//Hositing
 add()
 function add()
 {
     console.log("add method")
 }
+
+//backend
+// function add()
+// {
+//     console.log("add method")
+// }
+// add()

@@ -70,3 +70,5 @@ console.log(automationtool.replaceAll("Selenium","cypress"))
 var message="this is good"
 
 console.log(message.replace(" is"," was"))
+
+
