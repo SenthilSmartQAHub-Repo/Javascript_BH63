@@ -104,3 +104,6 @@ var person={
  //Checking properties
 
  console.log("age" in person) ;//true
+
+ console.log(Object.hasOwn(person,"age"))
+

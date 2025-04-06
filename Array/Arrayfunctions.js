@@ -12,7 +12,7 @@ console.log(cars)
 
 //==========Adding the Element============================================
 var cars=["lykan","BMW","mini"]
-
+console.log(cars.includes("BMW"));//true
 console.log(cars.push('Audi'))  //add at end of array and new length
 
 console.log(cars)
