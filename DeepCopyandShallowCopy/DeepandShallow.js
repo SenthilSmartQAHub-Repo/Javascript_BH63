@@ -17,10 +17,7 @@ arr1.splice(0,0,5)
 
 console.log(arr1,arr2)
 
-
 //convert Shallow copy to deep copy
-
-
 
 var arr1=[10,20]
 
@@ -31,10 +28,3 @@ arr1.splice(0,0,5)
 
 console.log(arr1,arr2)
 
-
-//----------------------------------------
-
-
-var arr1=[10,5,7,20]
-
-console.log(...arr1)
