@@ -16,3 +16,5 @@ console.log(null === undefined)  // false
 console.log(false===0) //false
 console.log(null === 0)  // false
 console.log(10 === 'ten') //false
+
+console.log(10 === 'ten')
