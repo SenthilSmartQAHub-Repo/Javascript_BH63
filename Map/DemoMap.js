@@ -82,4 +82,6 @@
         age:23
      })
 
+
+
      console.log(studentInfo.get("student1"))
