@@ -33,3 +33,42 @@ let Emp4:EmpType={
     empId:'ABC101'
 }
 
+// Arrays (T[] / Array<T>) – Represents a collection of elements of type T
+
+let values1:any[]=[10,30,40,50,"welcome"]
+
+let values2:Array<any>=[10,30,40,50,true,"welcome"]
+
+
+// Tuples ([T1, T2, T3...etc]) – Fixed-size array with specific types for each index.
+
+let values3:[number,string,boolean]=[10,"welcome",true]
+
+
+// Enum – Defines a set of named constants.
+
+enum Direction{
+    ArrawUp,
+    ArrawDown,
+    ArrawLeft,
+    ArrawRight,
+}
+
+console.log(Direction.ArrawRight)
+
+enum Status
+{
+    Success=200,
+    NotFound=404,
+    ServerError=500
+}
+console.log(Status.Success)
+
+enum Color
+{
+    Red="RED",
+    green="GREEN",
+    blue="BLUE"
+}
+
+console.log(Color.green)
