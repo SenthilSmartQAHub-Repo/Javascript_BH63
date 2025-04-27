@@ -6,7 +6,10 @@ let empId:string | number=123;
 
 function add(a:number|string,b:number|string)
 {
-    console.log("add value is "+ a+b)
+
+ 
+    console.log( (a as number) + (b as number))
+    
 }
 
 add("welcome",1)
