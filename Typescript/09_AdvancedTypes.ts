@@ -16,4 +16,7 @@ console.log(automationtool)
 
 
 let Color1:"RED" | "GREEN" | "BLUE"
- 
+
+
+
+  
