@@ -1,5 +1,5 @@
 
-//developing different parameter and single implemention
+//developing same method name with different parameter and single implemention
 class Greeting
 {
 
@@ -27,13 +27,13 @@ console.log(objgreet.greet('alice'))
 
 
 
-class Logger
-{
-   log():void
-   log(message:string):void
-   log(message:string, error:string):void
+// class Logger
+// {
+//    log():void
+//    log(message:string):void
+//    log(message:string, error:string):void
 
 
 
 
-}
+// }
