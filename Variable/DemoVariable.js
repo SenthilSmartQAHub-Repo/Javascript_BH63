@@ -12,3 +12,4 @@ var EmpSalay=70000;
 
 
 console.log(studentMark,EmpSalay)
+

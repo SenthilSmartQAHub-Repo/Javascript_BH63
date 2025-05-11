@@ -2,7 +2,7 @@ class BanKAccount1
 {
   private AccountBalance=10000; 
   //getters method
- get accountBalance():number
+ get accountBalance()
  {
     return this.AccountBalance;
  }
